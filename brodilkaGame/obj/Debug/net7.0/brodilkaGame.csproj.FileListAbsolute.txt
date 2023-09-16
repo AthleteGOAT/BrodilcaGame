@@ -1,0 +1,15 @@
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/bin/Debug/net7.0/brodilkaGame
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/bin/Debug/net7.0/brodilkaGame.deps.json
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/bin/Debug/net7.0/brodilkaGame.runtimeconfig.json
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/bin/Debug/net7.0/brodilkaGame.dll
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/bin/Debug/net7.0/brodilkaGame.pdb
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/brodilkaGame.csproj.AssemblyReference.cache
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/brodilkaGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/brodilkaGame.AssemblyInfoInputs.cache
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/brodilkaGame.AssemblyInfo.cs
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/brodilkaGame.csproj.CoreCompileInputs.cache
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/brodilkaGame.dll
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/refint/brodilkaGame.dll
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/brodilkaGame.pdb
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/brodilkaGame.genruntimeconfig.cache
+/Users/vadimgaicean/Projects/brodilkaGame/brodilkaGame/obj/Debug/net7.0/ref/brodilkaGame.dll
